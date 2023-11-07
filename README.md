@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileepa Malshan</h1>
 <h3 align="center">A passionate Software developer from Srilanka</h3>
-<img align=“right” alt=“coding” width = “400” src=“https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan1226&label=Profile%20views&color=0e75b6&style=flat" alt="shan1226" /> </p>
 
@@ -34,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shan1226&show_icons=true&locale=en" alt="shan1226" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shan1226&" alt="shan1226" /></p>
