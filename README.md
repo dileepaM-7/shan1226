@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dileepa Malshan</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate Software developer from Srilanka</h3>
 <img align=“right” alt=“coding” width = “400” src=“https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan1226&label=Profile%20views&color=0e75b6&style=flat" alt="shan1226" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dileepa06193159" target="blank"><img src="https://img.shields.io/twitter/follow/dileepa06193159?logo=twitter&style=for-the-badge" alt="dileepa06193159" /></a> </p>
 
+- 🎓 I’m currently Studying in ** Informatics Institute of Technology (University of westminster🏴󠁧󠁢󠁥󠁮󠁧󠁿)**
+  
 - 🔭 I’m currently working on **my SDGP**
 
 - 🌱 I’m currently learning **MongoDB,Nodejs**
